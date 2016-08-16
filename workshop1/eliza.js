@@ -39,7 +39,7 @@ var rules = {
     "What about computers worries you?",
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
-  ],
+  ],"What do you think of that word?"
   "~*x name ~*y": [
     "I am not interested in names",
   ],
